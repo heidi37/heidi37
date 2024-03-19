@@ -2,9 +2,8 @@
 
 ### Let's Code!
 
-> “To me programming is more than an important practical art.
-> It is also a gigantic undertaking in the foundations of knowledge.”
-> ~ Grace Hopper
+> “To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.”
+~ Grace Hopper
 
 <!--
 **heidi37/heidi37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
