@@ -1,4 +1,6 @@
-![A terminal command prompt](/images/prompt.svg)
+<img src="/images/prompt.svg" alt="terminal command prompt svg" width="144"/>
+
+### Let's Code!
 
 <!--
 **heidi37/heidi37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
