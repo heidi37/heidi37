@@ -1,6 +1,6 @@
 <img src="/images/prompt.svg" alt="terminal command prompt svg" width="144"/>
 
-### Let's Code!
+# Let's Code!
 
 > “To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.”
 
