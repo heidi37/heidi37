@@ -1,4 +1,4 @@
-<img src="/images/prompt.svg" alt="terminal command prompt svg" width="144"/>
+<img src="/images/linked-in-light-sm.png" alt="hello world welcome message" />
 
 # Let's Code!
 
