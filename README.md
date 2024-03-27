@@ -1,4 +1,4 @@
-<img src="/images/linked-in-light-sm.png" alt="hello world welcome message" />
+<img src="/images/hello-world-GitHub.png" alt="hello world welcome message" />
 
 # Let's Code!
 
